@@ -1,0 +1,8 @@
+{
+  "name": "frontend-alejo-reclamos",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server --port=8001"
+  }
+}
